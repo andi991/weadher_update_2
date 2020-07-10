@@ -1,6 +1,6 @@
 # lastlastweadher
 
-A simple weadher app
+A simple weadher app with update QR Code Scan for Location
 
 ## Getting Started
 
